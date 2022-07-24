@@ -1,5 +1,4 @@
-# Assignment-SoftwareRequirements-SWR302
-## 🔥 Hello ❤
+## Assignment-SoftwareRequirements-SWR302
 
 ### Members:
 
